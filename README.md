@@ -1,4 +1,5 @@
 🌟 About Me
+
 Welcome to my GitHub profile! I'm Owusu Adolph Kwabena, a third-year undergraduate Computer Science student with a deep passion for data mining, machine learning, and cybersecurity. My journey is a blend of ambition, curiosity, and a love for technology. Here’s a glimpse into my world:
 
 🚀 Aspirations
